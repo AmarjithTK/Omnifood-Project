@@ -3,7 +3,7 @@
 ## Most html, css are written from scratch to practice front end development
 ## Responsive, and designed with beautiful animations
 
-##### All design credits goes to Jonas Schmedtmann @ www.codingheros.io
+### All design credits goes to Jonas Schmedtmann @ www.codingheros.io
 
 ## This website has been coded by me as a part of the Modern HTML and CSS course by Jonas Schmedtmann
 
